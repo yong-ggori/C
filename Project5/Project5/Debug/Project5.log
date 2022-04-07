@@ -1,0 +1,3 @@
+﻿  소스.c
+C:\Users\KCCI26\source\repos\Project5\Project5\소스.c(9,9): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\KCCI26\source\repos\Project5\Project5\소스.c(11,5): error C2063: 'map': 함수가 아닙니다.

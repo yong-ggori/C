@@ -1,0 +1,3 @@
+﻿  12_12.c
+C:\Users\KCCI26\source\repos\chapter12\chapter12\12_12.c(9,12): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  chapter12.vcxproj -> C:\Users\KCCI26\source\repos\chapter12\Debug\chapter12.exe
