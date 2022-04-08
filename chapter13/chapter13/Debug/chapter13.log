@@ -1,0 +1,4 @@
+﻿  13_8.c
+C:\Users\KCCI26\source\repos\chapter13\chapter13\13_8.c(19): warning C4172: 지역 변수 또는 임시: res의 주소를 반환하고 있습니다.
+  LINK : C:\Users\KCCI26\source\repos\chapter13\Debug\chapter13.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  chapter13.vcxproj -> C:\Users\KCCI26\source\repos\chapter13\Debug\chapter13.exe
